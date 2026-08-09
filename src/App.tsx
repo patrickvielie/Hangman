@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { HangmanDrawing } from "./HangmanDrawing copy";
+import { HangmanDrawing } from "./HangmanDrawing";
 import { HangmanWord } from "./HangmanWord";
 import { Keyboard } from "./Keyboard";
 import words from "./wordList.json";
